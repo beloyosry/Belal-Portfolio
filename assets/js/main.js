@@ -1,5 +1,6 @@
 AOS.init();
 
+Fancybox.bind('[data-fancybox="linkedin"]');
 Fancybox.bind('[data-fancybox="e-commerce"]');
 Fancybox.bind('[data-fancybox="crud"]');
 Fancybox.bind('[data-fancybox="store"]');
