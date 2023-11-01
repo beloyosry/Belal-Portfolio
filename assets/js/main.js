@@ -1,5 +1,7 @@
 AOS.init();
 
+Fancybox.bind('[data-fancybox="twitter"]');
+Fancybox.bind('[data-fancybox="chatgpt"]');
 Fancybox.bind('[data-fancybox="linkedin"]');
 Fancybox.bind('[data-fancybox="e-commerce"]');
 Fancybox.bind('[data-fancybox="crud"]');
