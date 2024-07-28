@@ -1,5 +1,7 @@
 AOS.init();
 
+Fancybox.bind('[data-fancybox="almuerzo-dashboard"]');
+Fancybox.bind('[data-fancybox="almuerzo"]');
 Fancybox.bind('[data-fancybox="twitter"]');
 Fancybox.bind('[data-fancybox="chatgpt"]');
 Fancybox.bind('[data-fancybox="linkedin"]');
